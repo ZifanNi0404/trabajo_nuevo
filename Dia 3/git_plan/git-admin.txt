@@ -57,3 +57,6 @@ git checkout 分支名
 
 19,合并分支
 切换到主分支 git merge 分支名
+
+20,查找url地址
+git remote get-url <remote-name>
