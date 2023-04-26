@@ -60,3 +60,6 @@ git checkout 分支名
 
 20,查找url地址
 git remote get-url <remote-name>
+
+21,分支推到远程
+git push origin branch
